@@ -18,7 +18,7 @@ OPEN REFINE
 
 * Something went wrong. I clicked 'create project' and it put all three columns of data from .csv file into a single column.
 
-* Eventually found the problem. The layout was defaulted to 'tabs' not 'commas.' Changing that fixed it. (Screenshot 1).
+* Eventually found the problem. The layout was defaulted to 'tabs' not 'commas.' Changing that fixed it.
 
 * Ended up with slightly different numbers of results due to uncertainties of what to cluster, but hopefully this isn't an issue.
 
